@@ -1,7 +1,7 @@
 # Relational_Database_for_Mexican_Periodicals
  Data tidying and wrangling performed in order to transform my input spreadsheet into a relational database
 
-This dataset corresponds to the corpus that I analyse in my PhD thesis on the function of literary translation in Mexican periodicals at the turn of the century and during the first decades of the twentieth century (1894-1932). In it, I focus on various cultural magazines published during this period, collecting metadata for all the translated texts that appeared in them.
+This dataset corresponds to the corpus that I analyse in my PhD thesis on the function of literary translation in Mexican periodicals at the turn of the century and during the first decades of the twentieth century (1894-1931). In it, I focus on various cultural magazines published during this period, collecting metadata for all the translated texts that appeared in them.
 
 The project of creating a relational database arose after I attended the Applied Data Analysis workshop at the 2019 Digital Humanities at Oxford Summer School. I had until then been working with my input spreadsheet directly in R. My goal is now to tidy my data and split it into various tables, using mainly pandas.
 
